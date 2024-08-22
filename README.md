@@ -1,1 +1,1 @@
-# Project-QR_generate
+# QR_Generate
